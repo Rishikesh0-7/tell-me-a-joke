@@ -19,6 +19,7 @@ body{
 
 .joke-btn{
     outline: none;
+    border: none;
     background-color: black;
     padding: 10px 50px;
     color: white;
